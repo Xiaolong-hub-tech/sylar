@@ -1,2 +1,0 @@
-# sylar
-server learning
